@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning web development and working on some web projects. 
+Full stack developer
 
 
 ## 🌐 Socials:
